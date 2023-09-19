@@ -1,0 +1,14 @@
+{
+  "name": "@showa-yojyo/hello-packages",
+  "version": "1.0.0",
+  "publishConfig": {
+    "@showa-yojyo:registry": "https://npm.pkg.github.com"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
